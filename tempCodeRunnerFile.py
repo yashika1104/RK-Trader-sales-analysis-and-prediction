@@ -1,0 +1,1 @@
+print("Data Information:\n",data.info)
